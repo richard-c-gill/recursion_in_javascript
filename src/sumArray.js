@@ -22,8 +22,15 @@ var sumArray = function(arr) {
   // create a recursive function to sum up the contents of an array and return that number
   
   // create if else statement that has function call it's self
+  
+  // saw this in given example, if array has some length then will be true value
+  if (arr.length) {
 
-  // if array has length then have it call it's self *I don't think have to return array
+  } else {
+    
+  }
+
+  // if array has length then have it call it's self *I don't think have to return array*
 
   // have the contents of the array be modified in that if/else statement before re-calling sumArray
 
