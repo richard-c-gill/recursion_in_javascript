@@ -18,4 +18,16 @@
 
 var sumArray = function(arr) {
   // Your code here
+
+  // create a recursive function to sum up the contents of an array and return that number
+  
+  // create if else statement that has function call it's self
+
+  // if array has length then have it call it's self *I don't think have to return array
+
+  // have the contents of the array be modified in that if/else statement before re-calling sumArray
+
+
+
+
 };
